@@ -1,7 +1,7 @@
 ### CSTextView (experimental)
 
 #### As it stands
-[CSTextView.gif](https://www.github.com/coltonswapp/CSTextViewTest//CSTextViewTest/CSTextView.gif)
+![myGif](https://github.com/coltonswapp/CSTextViewTest/blob/main/CSTextViewTest/CSTextView.gif)
 
 #### Goal
 - Take criticisms and find better ways to build interactions like this
