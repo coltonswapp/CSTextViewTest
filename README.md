@@ -1,7 +1,7 @@
 ### CSTextView (experimental)
 
 #### As it stands
-insert gif url here
+[CSTextView.gif](https://www.github.com/coltonswapp/CSTextView/CSTextView.gif)
 
 #### Goal
 - Take criticisms and find better ways to build interactions like this
